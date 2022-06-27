@@ -1,0 +1,9 @@
+.error-container {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem auto;
+    align-items: center;
+    color:red;
+    background-color:skyblue;
+    max-width: 500px;
+  }

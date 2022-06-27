@@ -1,0 +1,9 @@
+.mainMenus {
+    padding-left: 2rem;
+    font-family: Nunito;
+}
+.mainMenus_list{
+    color: #335d63;
+    font-size: 1.5em;
+    line-height: 1.5; 
+}
